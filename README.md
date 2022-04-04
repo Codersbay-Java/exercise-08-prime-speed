@@ -1,22 +1,13 @@
-# Exercise 00 Template 
-### Deadline 01.01.2022
+# Exercise 08 Prime Numbers 
 
-Program some cool stuff
+Calculate the first x prime numbers.
 
 ## Task 1
-Some task
+
+The first task is to implement the `getPrimeNumbers()` method inside the PrimeNumbers class.
 
 ## Task 2
-More work todo 😥
 
-<br>
+How many prime numbers do you need for a calculation time of at least 1 second?
 
-> This might be helpful
-
-~~~java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!"); 
-    }
-}
-~~~
+How many do you need for a runtime of at least 10 seconds?
